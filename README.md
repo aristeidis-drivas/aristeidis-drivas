@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aristeidis-drivas
+- 👋 Hi, I’m @aristeidis-drivas, Aristeidis Drivas
 - 👀 I’m interested in programming and learning new technologies
 - 🌱 I’m currently learning Java and Spring Ecosystem.
 - 📫 How to reach me: https://www.linkedin.com/in/aristeidisdrivas/
